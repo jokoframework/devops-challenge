@@ -12,5 +12,4 @@ Los archivos de configuración para cada persona, están su sus respectivos dire
 
 Para la solución debes crear un repositorio github privado y enviar la invitación para unirse a cv@sodep.com.py
 
-El deadline es el *31 de Enero de 2021 a las 12:00 PM*, hora de Paraguay.
 
